@@ -32,3 +32,5 @@ For programs that do not implement the additional features, the test cases you s
 4. Run your program in python
 5. If you are using the IDLE Shell, press Ctrl-V to paste the testcase into the shell. Press enter to run the code.
 6. If you are using a terminal or PyCharm, press Ctrl-V on the terminal to run the code.
+
+Note: For IDLE users, you may get an error in the end. That is because an extra enter key is registered. This is normal. Please switch to pycharm.
